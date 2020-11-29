@@ -16,8 +16,8 @@ In order to access the files via the links, you need to set the repository as pu
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map]()
+ - [My static map](https://autogis-2020.github.io/exercise-5-bryanvallejo16/pgra_car_malls.png)
+ - [My interactive map](https://autogis-2020.github.io/exercise-5-bryanvallejo16/low_income_2000_2010.html)
  
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2020.github.io/exercise-5-VuokkoH/test_map.html)
