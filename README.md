@@ -74,6 +74,17 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
+
+Very exciting problem formulation and solving especially in prob 1 where the solving of a problem was narrated almost like a story. Seems like you handle data very well in Python and apply that to geogrphical context with no problems. In problem 1, would have been nice if you had 5 classes to show the difference also between Jumbo and Itis (or alternatively just plotted the green roof area potential/ person without classification) :smile: . Good cartographic and visual choices in both maps. Especially the index map on folium was cool, all new to me! I'd maybe swap the colormap the other way around in the interactive map to highlight the areas where the percentage of poor has grown (growth percentage is positive). All in all, terrific work, good problem solving and handsome maps! 
+  
   
   
   
